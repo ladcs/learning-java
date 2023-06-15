@@ -10,6 +10,7 @@ Usando maven, recebe um valor númerico, do tipo double, retorna a area do quadr
 
 <br />
 <details> <summary> <strong> Exemplos </strong> </summary>
+
 ### Exemplo 1
 
 Supondo que o valor do lado é 3, então a saída será:
