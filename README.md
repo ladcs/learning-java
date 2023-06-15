@@ -130,5 +130,10 @@ Segue os exercícios da aceleração Java da Trybe, que são:
 <details>
 <summary><strong> Sobre os exercícios </strong></summary>
 </br>
-Aqui está apenas os nomes dado pelo programa de acelaração, nas pastas de cada um terá um README.md descrevendo o exercícios. Nos primeiros exercicios não haverá testes.
+Aqui está apenas os nomes dado pelo programa de acelaração, nas pastas de cada um terá um README.md descrevendo o exercícios. Nos primeiros exercicios não haverá testes, porém nos exercícios após o aprendizado do JUNIT todos os exercícios terão testes unitários.
+</details>
+
+<details>
+<summary><strong> Desafio final</strong></summary>
+Work In Progress.
 </details>
