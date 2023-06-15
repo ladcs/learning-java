@@ -1,6 +1,6 @@
 # Aprendendo Java.
 
-<detail>
+<details>
 <summary><strong> Sobre o programa </strong></summary>
 </br>
 Segue os exercícios da aceleração Java da Trybe, que são:
@@ -125,10 +125,10 @@ Segue os exercícios da aceleração Java da Trybe, que são:
 
 -> <strong>gerenciador-de-estoque</strong>: desafio obrigatório.
 </summary>
-</detail>
+</details>
 
-<detail>
+<details>
 <summary><strong> Sobre os exercícios </strong></summary>
 </br>
 Aqui está apenas os nomes dado pelo programa de acelaração, nas pastas de cada um terá um README.md descrevendo o exercícios. Nos primeiros exercicios não haverá testes.
-</detail>
+</details>
