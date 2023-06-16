@@ -1,6 +1,6 @@
-### Antecessor Sucessor
+### converte bytes
 
-# Boas vindas ao exercício Antecessor sucessor
+# Boas vindas ao exercício converte bytes
 
 <details> <summary> <strong> Descrição </strong> </summary>
 <br />

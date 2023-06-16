@@ -1,6 +1,6 @@
-### Antecessor Sucessor
+### calcula imc
 
-# Boas vindas ao exercício Antecessor sucessor
+# Boas vindas ao exercício calcula imc
 
 <details> <summary> <strong> Descrição </strong> </summary>
 <br />

@@ -1,6 +1,6 @@
-### Antecessor Sucessor
+### Calcula area
 
-# Boas vindas ao exercício Antecessor sucessor
+# Boas vindas ao exercício Calcula area
 
 <details> <summary> <strong> Descrição </strong> </summary>
 <br />
