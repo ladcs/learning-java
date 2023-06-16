@@ -1,6 +1,6 @@
-### Antecessor Fatorial
+### Fatorial
 
-# Boas vindas ao exercício Antecessor Fatorial
+# Boas vindas ao exercício Fatorial
 
 <details> <summary> <strong> Descrição </strong> </summary>
 <br />
