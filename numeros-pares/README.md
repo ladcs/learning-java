@@ -7,5 +7,4 @@
 Usando maven, um algoritimo que imprimi os valores pares de 4 até 20.
 </details>
 
-
 <br />
